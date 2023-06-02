@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.2](https://github.com/artalar/reatom/compare/core-v3.3.1...core-v3.3.2) (2023-06-02)
+
+
+### Bug Fixes
+
+* **core:** fix type error  (nullable atom) ([#574](https://github.com/artalar/reatom/issues/574)) ([06d123b](https://github.com/artalar/reatom/commit/06d123ba118ac98996d6653ab2377e56516ad84b))
+
 ## [3.3.1](https://github.com/artalar/reatom/compare/core-v3.3.0...core-v3.3.1) (2023-05-21)
 
 
